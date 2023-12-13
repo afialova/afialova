@@ -15,19 +15,29 @@
 - 🌿 Plant parent to a jungle of succulents<br>
 <br>
 
-## Github stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afialova&layout=compact&theme=tokyonight)
-
-<br>
+## Skills
+<p align="center">
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
+</p>
 
 ## Connect with me
 <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;" target="_blank" href="mailto:adela.grnd@gmail.com">
-			<img src="https://img.icons8.com/doodle/48/gmail.png"></a>
+			<img src="https://img.icons8.com/doodle/48/gmail.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adela-fialova/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/afialova">
-		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_adelafialova">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
