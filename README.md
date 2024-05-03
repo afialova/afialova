@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <img align="right" img src="https://raw.githubusercontent.com/afialova/afialova/master/200w.webp" width="210px">
 
-- 🐞 QA Engineer at IDC: Battling digital baddies, one bug at a time<br>
+- 🐞 QA Engineer at Gen Digital: Battling digital baddies, one bug at a time<br>
 - Graduate of Faculty of Mechanical Engineering at CTU Prague <br>
 - 🌈 Embracing all the colors of the coding spectrum<br>
 - Currently learning Web Development with [__Czechitas__](https://www.czechitas.cz/kurzy/digitalni-akademie-web)<br>
