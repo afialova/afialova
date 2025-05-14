@@ -38,6 +38,6 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/afialova">
 		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_adelafialova">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/_adelafialova_">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
       </div>
