@@ -7,12 +7,12 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 <img align="right" img src="https://raw.githubusercontent.com/afialova/afialova/master/200w.webp" width="210px">
 
-- 🐞 QA Engineer at Gen Digital: Battling digital baddies, one bug at a time<br>
-- Graduate of Faculty of Mechanical Engineering at CTU Prague <br>
+- 🚗 System Engineer at Valeo – crafting smart solutions for smarter cars<br>
+- 🎓 Graduate of Faculty of Mechanical Engineering at CTU Prague <br>
 - 🌈 Embracing all the colors of the coding spectrum<br>
-- Currently learning Web Development with [__Czechitas__](https://www.czechitas.cz/kurzy/digitalni-akademie-web)<br>
+- 💻 Completed Web Development with [__Czechitas__](https://www.czechitas.cz/kurzy/digitalni-akademie-web)<br>
 - 🧚‍♂️ Cultivating my inner fairy and spreading digital magic<br>
-- 🌿 Plant parent to a jungle of succulents<br>
+- 🌿 Plant parent of a lush home jungle<br>
 <br>
 
 ## Skills
